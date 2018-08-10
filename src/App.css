@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+}
+
+.todo-wrapper {
+  margin: 20px, auto, 20px, auto;
+  border: 10px solid brown;
+  padding: 50px;
+  color: brown;
+  background-color: rgb(233, 231, 229);
+  
+}
+.itemWrapper{
+  width: 80%;
+ 
+ 
+  margin: auto;
+  padding: 10px;
+}
+
+.removeTodo{
+  border: 1px solid brown;
+  text-align: right;
+}
+
+.taskRow{
+  width: 15%;
+  float: left;
+}
+.bottonRow{
+  margin-left: 25%;
+}
